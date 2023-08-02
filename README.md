@@ -23,6 +23,7 @@ Start the react dev server.
 
 ```sh
 $ cd client
+$ npm i (??)
 $ npm start
 ```
 
