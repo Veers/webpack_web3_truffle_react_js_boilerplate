@@ -11,12 +11,12 @@ Run the `unbox` command using 1 of 2 ways.
 ```sh
 # Install Truffle globally and run `truffle unbox`
 $ npm install -g truffle
-$ truffle unbox react
 ```
 
+#### GANACHE NEED https://trufflesuite.com/ganache/
 ```sh
-# Alternatively, run `truffle unbox` via npx
-$ npx truffle unbox react
+$ cd truffle
+$ truffle migrate
 ```
 
 Start the react dev server.
